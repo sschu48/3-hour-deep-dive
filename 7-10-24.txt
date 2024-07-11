@@ -1,0 +1,25 @@
+7-10-24
+
+started off to a slow start...extremely distracted
+my command line was bothering me so i reinstalled my .zshrc file
+
+then i deleted my background (on a minimalism wave rn)
+
+
+- organized work environment for purest simplicity
+- reviewed last night's work (up and running RAG model FINALLY)
+	problem is that its extremley bland so v1.2 is needed
+- skimmed "Corrective Retrieval Augmented Generation" paper
+	valuable info here, going to dive deeper into it tmr and implement
+- skimmed "Self-RAG: Learning to Retrieve, Generate and Cirtique thorugh Seld Reflections"
+	this was good, a little too much for now, not going to cont. for some time
+- looked through repos for inspo developing v1.2 rag model
+	idk if i want to use langchain or not (its fast but to high level to understand)
+	need advice!!!
+
+
+looking ahead:
+- need to be more efficient in beginning
+- start earlier...its too late rn
+- how can you A/B test custom app vs langchain without waisting time (think!)
+
