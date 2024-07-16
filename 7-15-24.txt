@@ -1,0 +1,20 @@
+7-15-24
+
+today felt like hitting a brick wall...
+really tried to get some code in but nothing was able to get built
+
+really struggling "mapping" out a design
+
+
+- read through corrective-rag work and repos
+- watched llama-index video on agentic rag
+- read about agentic-rag
+- tried modeling out architecture of model on paper
+- struggled coding...
+
+
+lessons learned: 
+- keep pushing even when at walls
+- don't think too big, just get something working again
+
+going at it tomorrow again

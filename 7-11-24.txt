@@ -1,0 +1,16 @@
+7-10-24
+
+good progres studying for part 135 checkride
+overall great day learning rather than "doing"
+
+
+- read over part 119 regs
+- started to write out interpretation of regs
+- reviewed compliance statements and their correlation to reg
+
+moved to llm stuff...
+- read thoroughly through "Corrective Retrieval Augmented Generation"
+	great read, lot to learn here, and even more to implement
+- wrote flow diagrams describing paper
+	looking to build on these tomorrow
+- tried to identify value of using langchain vs "builing custom" 
